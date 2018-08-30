@@ -1,0 +1,1 @@
+exports.parseQIF = require('./parse');
